@@ -1,6 +1,6 @@
 # AuraEditor
 
-AuraEdit is ew replacement for the LSL Editor
+AuraEdit is a replacement for the LSL Editor
 
 # Features
   * Tabbed layout
