@@ -17,5 +17,6 @@ AuraEdit is a new replacement for the LSL Editor
   * Autoformatting and minimizing for JSON
   * auto quote escaping and unescaping for JSON
   * Detachable tabs
+  * Object to Json and Json to Object Gen
   * and more..
   
