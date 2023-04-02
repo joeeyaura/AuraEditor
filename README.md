@@ -19,5 +19,6 @@ AuraEdit is a new replacement for the LSL Editor
   * Detachable tabs
   * Object to Json and Json to Object Gen
   * Realtime (nearly) Syntax Checker with Warnings
+  * Collapse and save functions and code snippets to disk and include into scripts
   * and more..
   
