@@ -5,7 +5,7 @@ AuraEdit is a new replacement for the LSL Editor
 # Features
   * Tabbed layout
   * Overview Document Map
-  * Open tabs stay open after closeing and reopening
+  * Open tabs stay open after closeing and reopening so your unsaved scripts are always safe
   * Syntax Highlighing for LSL, JSon, HTML,XML,PHP and notecards
   * LSL Syntax checking
   * Code Folding
